@@ -1,5 +1,10 @@
 # Log
 
+- **2026-10-15** — Discoveries 008 and 009: fifteen new exact terms of the push-your-luck coin race "Risk or Safety"
+  (OEIS A387261/A387262, n = 16–30, each with a full certificate; [draft PR #169](https://github.com/elder-plinius/V3R1T4S/pull/169))
+  and a QOBLIB portfolio-optimisation instance solved to −644,342 against a best posted −401,535
+  ([draft PR #170](https://github.com/elder-plinius/V3R1T4S/pull/170)). Write-ups: [results/008](results/008-risk-or-safety-n16-30.md),
+  [results/009](results/009-qoblib-portfolio-a200.md).
 - **2026-10-15** — Discovery 007: an exact lower bound of about 0.0233788 for robust aggregation of two forecasters
   (published 31/1326 ≈ 0.0233786), a strict but tiny gain (2.2e-7) that stays below our bank entry's +1e-5 margin;
   [draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160). Write-up: [results/007](results/007-robust-forecast-lower-bound.md).

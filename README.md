@@ -18,6 +18,8 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 005 | 2026-10-15 | [Most stable matchings in a 14×14 marriage market](results/005-stable-marriage-n14.md) | 24,992 stable matchings (previous best known: 20,176) | Submitted to V3R1T4S ([draft PR #156](https://github.com/elder-plinius/V3R1T4S/pull/156)) | seconds, C compiler |
 | 006 | 2026-10-15 | [Most stable matchings in a 22×22 marriage market](results/006-stable-marriage-n22.md) | 12,277,568 stable matchings (previous best known: 11,221,136) | Submitted to V3R1T4S ([draft PR #157](https://github.com/elder-plinius/V3R1T4S/pull/157)) | seconds, C compiler |
 | 007 | 2026-10-15 | [A slightly higher floor for combining two forecasters](results/007-robust-forecast-lower-bound.md) | Exact lower bound ≈ 0.0233788 on the minimax regret (published: 31/1326 ≈ 0.0233786; tiny, below the bank margin) | Submitted to V3R1T4S ([draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160)) | `sh verify-it-yourself/run_checks.sh` |
+| 008 | 2026-10-15 | [Exact optimal-play odds in "Risk or Safety", 16 to 30 points](results/008-risk-or-safety-n16-30.md) | 15 new exact terms of OEIS A387261/A387262 (n = 16–30), each with a full certificate | Submitted to V3R1T4S ([draft PR #169](https://github.com/elder-plinius/V3R1T4S/pull/169)) | `sh verify-it-yourself/run_checks.sh` |
+| 009 | 2026-10-15 | [A better portfolio for a quantum-optimisation benchmark](results/009-qoblib-portfolio-a200.md) | QOBLIB po_a200_t10_s00 (B = 50, λ = 0.01): objective −644,342 (best posted: −401,535) | Submitted to V3R1T4S ([draft PR #170](https://github.com/elder-plinius/V3R1T4S/pull/170)) | `sh verify-it-yourself/run_checks.sh` |
 
 
 ## Problems we proposed

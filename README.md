@@ -27,6 +27,7 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 014 | 2026-10-15 | [Proof of the Angel–Holmes "all in" conjecture](results/014-angel-holmes-all-in-conjecture.md) | A short stack is always worse off than a tied one: f(x,y,z) − f(y,y,z) ≥ 379/1,813,985,280 (He–Holmes Conjecture 9) | Submitted to V3R1T4S ([draft PR #192](https://github.com/elder-plinius/V3R1T4S/pull/192)) | `sh verify-it-yourself/run_checks.sh` |
 | 015 | 2026-10-15 | [A better portfolio for a 400-asset quantum-optimisation benchmark instance](results/015-qoblib-portfolio-a400.md) | QOBLIB po_a400_t10_s00 (B = 100, λ = 0.01): objective −1,696,664 (best public: −1,090,282) | Submitted to V3R1T4S ([draft PR #193](https://github.com/elder-plinius/V3R1T4S/pull/193)) | `sh verify-it-yourself/run_checks.sh` |
 | 016 | 2026-10-15 | [Most stable matchings in a 21×21 marriage market](results/016-stable-marriage-n21.md) | 5,400,616 stable matchings (OEIS value: 3,506,880) | Submitted to V3R1T4S ([draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194)) | `sh verify-it-yourself/run_checks.sh` |
+| 017 | 2026-10-15 | [Most stable matchings in a 23×23 marriage market](results/017-stable-marriage-n23.md) | 19,305,568 stable matchings (OEIS value: 15,481,956) | Submitted to V3R1T4S ([draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)) | `sh verify-it-yourself/run_checks.sh` |
 
 
 ## Problems we proposed
@@ -37,7 +38,7 @@ count as a solution.
 
 | Problem | Area | Bank proposal | Our results |
 |---|---|---|---|
-| [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–006, 010, 012, 013, 016 |
+| [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–006, 010, 012, 013, 016, 017 |
 | [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | [draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) | 007 (tiny lower-bound gain) |
 
 ## How a result gets here

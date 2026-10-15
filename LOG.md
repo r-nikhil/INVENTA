@@ -1,5 +1,7 @@
 # Log
 
+- **2026-10-15** — Discovery 017: a 23×23 instance with 19,305,568 stable matchings, found by search (OEIS value
+  15,481,956; [draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)).
 - **2026-10-15** — The V3R1T4S maintainer merged our search results 003 (#150) and 004 (#151) and closed 002, 005, 006
   and 010 (#147, #156, #157, #174): their counts are right, but they are doublings of known instances that beat only
   the stale OEIS A357271 data line, not records. Those pages now say so. Lesson taken: the bar for stable matchings is

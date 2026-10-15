@@ -7,8 +7,9 @@ under the library's reference model — better (lower) than the best value poste
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate), cross-checked blind by
 a second model family, and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #170](https://github.com/elder-plinius/V3R1T4S/pull/170). Not submitted to QOBLIB
-itself.
+[elder-plinius/V3R1T4S draft PR #170](https://github.com/elder-plinius/V3R1T4S/pull/170). Also submitted to QOBLIB
+itself, together with [011](011-qoblib-portfolio-a200-orig.md), with the AI use disclosed as their policy asks:
+[ZIB-AOPT/QOBLIB pull request #92](https://github.com/ZIB-AOPT/QOBLIB/pull/92).
 
 ---
 

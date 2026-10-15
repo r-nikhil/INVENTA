@@ -1,5 +1,7 @@
 # Log
 
+- **2026-10-15** — Submitted both QOBLIB portfolio results (009 and 011) to the benchmark library itself, with the AI
+  use disclosed as its policy asks: [ZIB-AOPT/QOBLIB pull request #92](https://github.com/ZIB-AOPT/QOBLIB/pull/92).
 - **2026-10-15** — Discovery 011: a second QOBLIB portfolio instance, po_a200_t10_orig, solved to −691,624 against a
   best posted −551,385 ([draft PR #176](https://github.com/elder-plinius/V3R1T4S/pull/176)). Write-up:
   [results/011](results/011-qoblib-portfolio-a200-orig.md).

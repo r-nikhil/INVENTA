@@ -8,7 +8,9 @@ under the library's reference model, against a best posted value of **−551,385
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate), cross-checked blind by
 a second model family, and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #176](https://github.com/elder-plinius/V3R1T4S/pull/176).
+[elder-plinius/V3R1T4S draft PR #176](https://github.com/elder-plinius/V3R1T4S/pull/176). Also submitted to QOBLIB itself, together with
+[009](009-qoblib-portfolio-a200.md), with the AI use disclosed as their policy asks:
+[ZIB-AOPT/QOBLIB pull request #92](https://github.com/ZIB-AOPT/QOBLIB/pull/92).
 
 ---
 

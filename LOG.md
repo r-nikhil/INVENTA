@@ -1,5 +1,7 @@
 # Log
 
+- **2026-10-16** — Discovery 019: exact card-guessing values for n = 11–13 ([draft PR #200](https://github.com/elder-plinius/V3R1T4S/pull/200)).
+  Candidate C01 (three-player Kuhn) submitted as PROMISING ([draft PR #201](https://github.com/elder-plinius/V3R1T4S/pull/201)).
 - **2026-10-16** — Discovery 018: a proof that the conjectured threshold strategies of three-player von Neumann poker
   (Krityakierne–Thanatipanonda–Zeilberger 2024) form a Nash equilibrium for every bet size
   ([draft PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196)).

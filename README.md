@@ -29,6 +29,7 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 016 | 2026-10-15 | [Most stable matchings in a 21×21 marriage market](results/016-stable-marriage-n21.md) | 5,400,616 stable matchings (OEIS value: 3,506,880) | Submitted to V3R1T4S ([draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194)) | `sh verify-it-yourself/run_checks.sh` |
 | 017 | 2026-10-15 | [Most stable matchings in a 23×23 marriage market](results/017-stable-marriage-n23.md) | 19,305,568 stable matchings (OEIS value: 15,481,956) | Submitted to V3R1T4S ([draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)) | `sh verify-it-yourself/run_checks.sh` |
 | 018 | 2026-10-16 | [Three-player von Neumann poker: the conjectured strategy is an equilibrium for every bet size](results/018-three-player-von-neumann-poker.md) | Proof for all b > 0 that the threshold profile of Krityakierne–Thanatipanonda–Zeilberger (2024) is a Nash equilibrium | Submitted to V3R1T4S ([draft PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196)) | `sh verify-it-yourself/run_checks.sh` |
+| 019 | 2026-10-16 | [Exact optimal scores in card guessing with yes/no feedback, n = 11–13](results/019-card-guessing-n11-13.md) | Exact values for two-copy decks of 11, 12 and 13 labels (published values stop at n = 10) | Submitted to V3R1T4S ([draft PR #200](https://github.com/elder-plinius/V3R1T4S/pull/200)) | `sh verify-it-yourself/run_checks.sh` |
 
 
 ## Candidates (not confirmed)
@@ -38,7 +39,7 @@ not submitted anywhere and must not be cited as confirmed.
 
 | # | Date | Problem | Candidate result | What is missing |
 |---|---|---|---|---|
-| C01 | 2026-10-16 | [Three-player Kuhn poker: are all Nash equilibria in the 2013 family?](candidates/c01-three-player-kuhn-completeness.md) | A computer-checked proof that every Nash equilibrium agrees on its path of play with the Szafron–Gibson–Sturtevant family | Novelty review: one textbook chapter unread; no cross-model review |
+| C01 | 2026-10-16 | [Three-player Kuhn poker: are all Nash equilibria in the 2013 family?](candidates/c01-three-player-kuhn-completeness.md) | A computer-checked proof that every Nash equilibrium agrees on its path of play with the Szafron–Gibson–Sturtevant family | Novelty review: one textbook chapter unread; no cross-model review. Submitted as PROMISING ([draft PR #201](https://github.com/elder-plinius/V3R1T4S/pull/201)) |
 
 ## Problems we proposed
 

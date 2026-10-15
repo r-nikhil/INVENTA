@@ -8,6 +8,9 @@ of OEIS [A357271](https://oeis.org/A357271)). So **f(13) ≥ 7,698** (+8.1 %).
 second model family, and submitted for maintainer review:
 [elder-plinius/V3R1T4S draft PR #150](https://github.com/elder-plinius/V3R1T4S/pull/150).
 
+
+*Since improved: [012](012-stable-marriage-n13-9836.md) has 9,836.*
+
 ---
 
 ## The problem

@@ -1,5 +1,10 @@
 # Log
 
+- **2026-10-15** — Five results merged into V3R1T4S by its maintainer after independent re-checks: 001 (#144), 007 (#160),
+  008 (#169), 009 (#170) and 011 (#176).
+- **2026-10-15** — Discoveries 012–015 from the Codex lanes: a 13×13 instance with 9,836 stable matchings (#190), a 19×19
+  instance with 935,662 (#191), a computer-assisted proof of the Angel–Holmes "all in" conjecture (#192), and a 400-asset
+  QOBLIB portfolio at −1,696,664 (#193).
 - **2026-10-15** — Submitted both QOBLIB portfolio results (009 and 011) to the benchmark library itself, with the AI
   use disclosed as its policy asks: [ZIB-AOPT/QOBLIB pull request #92](https://github.com/ZIB-AOPT/QOBLIB/pull/92).
 - **2026-10-15** — Discovery 011: a second QOBLIB portfolio instance, po_a200_t10_orig, solved to −691,624 against a

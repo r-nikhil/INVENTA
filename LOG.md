@@ -1,5 +1,7 @@
 # Log
 
+- **2026-10-15** — Discovery 016: a 21×21 instance with 5,400,616 stable matchings (OEIS value 3,506,880;
+  [draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194)).
 - **2026-10-15** — Five results merged into V3R1T4S by its maintainer after independent re-checks: 001 (#144), 007 (#160),
   008 (#169), 009 (#170) and 011 (#176).
 - **2026-10-15** — Discoveries 012–015 from the Codex lanes: a 13×13 instance with 9,836 stable matchings (#190), a 19×19

@@ -1,5 +1,8 @@
 # Log
 
+- **2026-10-15** — Discovery 007: an exact lower bound of about 0.0233788 for robust aggregation of two forecasters
+  (published 31/1326 ≈ 0.0233786), a strict but tiny gain (2.2e-7) that stays below our bank entry's +1e-5 margin;
+  [draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160). Write-up: [results/007](results/007-robust-forecast-lower-bound.md).
 - **2026-10-15** — Discoveries 005 and 006: a 14×14 instance with 24,992 stable matchings (previous best 20,176;
   [draft PR #156](https://github.com/elder-plinius/V3R1T4S/pull/156)) and a 22×22 instance with 12,277,568 (previous best
   11,221,136; [draft PR #157](https://github.com/elder-plinius/V3R1T4S/pull/157)), both by doubling record blocks. Write-ups:

@@ -17,6 +17,7 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 004 | 2026-10-15 | [Most stable matchings in a 15×15 marriage market, improved](results/004-stable-marriage-n15-30362.md) | 30,362 stable matchings (published best: 27,059; our 001: 27,510) | Submitted to V3R1T4S ([draft PR #151](https://github.com/elder-plinius/V3R1T4S/pull/151)) | seconds, C compiler |
 | 005 | 2026-10-15 | [Most stable matchings in a 14×14 marriage market](results/005-stable-marriage-n14.md) | 24,992 stable matchings (previous best known: 20,176) | Submitted to V3R1T4S ([draft PR #156](https://github.com/elder-plinius/V3R1T4S/pull/156)) | seconds, C compiler |
 | 006 | 2026-10-15 | [Most stable matchings in a 22×22 marriage market](results/006-stable-marriage-n22.md) | 12,277,568 stable matchings (previous best known: 11,221,136) | Submitted to V3R1T4S ([draft PR #157](https://github.com/elder-plinius/V3R1T4S/pull/157)) | seconds, C compiler |
+| 007 | 2026-10-15 | [A slightly higher floor for combining two forecasters](results/007-robust-forecast-lower-bound.md) | Exact lower bound ≈ 0.0233788 on the minimax regret (published: 31/1326 ≈ 0.0233786; tiny, below the bank margin) | Submitted to V3R1T4S ([draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160)) | `sh verify-it-yourself/run_checks.sh` |
 
 
 ## Problems we proposed
@@ -28,7 +29,7 @@ count as a solution.
 | Problem | Area | Bank proposal | Our results |
 |---|---|---|---|
 | [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–006 |
-| [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | [draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) | — |
+| [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | [draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) | 007 (tiny lower-bound gain) |
 
 ## How a result gets here
 

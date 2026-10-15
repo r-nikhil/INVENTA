@@ -69,6 +69,11 @@ We are attacking this with V3R1T4S research lanes: an "adversary" search over fi
 structures with exact rational arithmetic for the lower bound, and certified branch-and-bound for aggregator worst
 cases. Results will be posted here only after independent verification.
 
+**2026-10-15:** discovery [007](../results/007-robust-forecast-lower-bound.md), an exact lower bound of about
+0.0233788 in the unknown-state cell, above 31/1326 by only 2.2e-7 (submitted as
+[draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160)). That is below the +1e-5 margin in the success rule
+above, so the problem stays open; the search continues.
+
 ## Sources
 
 - Chen, Peng, Tang, [arXiv:2604.24517](https://arxiv.org/abs/2604.24517) ([PDF](https://arxiv.org/pdf/2604.24517))

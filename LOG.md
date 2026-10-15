@@ -1,5 +1,7 @@
 # Log
 
+- **2026-10-15** — Discovery 010: a 28×28 instance with 2,497,797,760 stable matchings (OEIS value 2,000,043,808;
+  [draft PR #174](https://github.com/elder-plinius/V3R1T4S/pull/174)). Write-up: [results/010](results/010-stable-marriage-n28.md).
 - **2026-10-15** — Discoveries 008 and 009: fifteen new exact terms of the push-your-luck coin race "Risk or Safety"
   (OEIS A387261/A387262, n = 16–30, each with a full certificate; [draft PR #169](https://github.com/elder-plinius/V3R1T4S/pull/169))
   and a QOBLIB portfolio-optimisation instance solved to −644,342 against a best posted −401,535

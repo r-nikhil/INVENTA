@@ -1,5 +1,9 @@
 # Log
 
+- **2026-10-15** — The V3R1T4S maintainer merged our search results 003 (#150) and 004 (#151) and closed 002, 005, 006
+  and 010 (#147, #156, #157, #174): their counts are right, but they are doublings of known instances that beat only
+  the stale OEIS A357271 data line, not records. Those pages now say so. Lesson taken: the bar for stable matchings is
+  the best composition of known instances, not the OEIS data line.
 - **2026-10-15** — Discovery 016: a 21×21 instance with 5,400,616 stable matchings (OEIS value 3,506,880;
   [draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194)).
 - **2026-10-15** — Five results merged into V3R1T4S by its maintainer after independent re-checks: 001 (#144), 007 (#160),

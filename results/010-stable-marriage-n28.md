@@ -1,5 +1,10 @@
 # 010 · 2,497,797,760 stable matchings in a 28×28 marriage market
 
+> **Update (2026-10-15): closed by the V3R1T4S maintainer, not listed as a record.** The count is exactly right, but
+> the instance is a mechanical composition (doubling) of known instances with no search. It beats the OEIS A357271
+> data line only because that line is stale: its odd terms predate the Ong et al. instance file and its even terms
+> predate doubling those instances. The best composition of known instances is the real bar. Closed PR: [#174](https://github.com/elder-plinius/V3R1T4S/pull/174).
+
 **Result.** An explicit stable-marriage instance with 28 people on each side that has exactly **2,497,797,760** stable
 matchings. That beats the value listed for this size in OEIS [A357271](https://oeis.org/A357271) (**2,000,043,808**,
 from Edward Thurber's 2002 compositions; +24.9 %) and also the **2,369,365,120** you get by applying the same doubling

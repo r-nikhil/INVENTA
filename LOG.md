@@ -1,5 +1,9 @@
 # Log
 
+- **2026-10-15** — Proposed the first two open problems to the V3R1T4S bank:
+  [stable matchings](problems/stable-marriage-max-stable-matchings.md) ([draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153)) and
+  [robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) ([draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154)).
+  More proposals (poker, gambling mathematics, markets, security, computing, games) follow in waves.
 - **2026-10-15** — Discoveries 003 and 004: a 13×13 instance with 7,698 stable matchings (previous best 7,123;
   [draft PR #150](https://github.com/elder-plinius/V3R1T4S/pull/150)) and a 15×15 instance with 30,362 (published best
   27,059; supersedes our 27,510 from 001; [draft PR #151](https://github.com/elder-plinius/V3R1T4S/pull/151)). Both passed

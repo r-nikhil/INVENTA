@@ -16,6 +16,18 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 003 | 2026-10-15 | [Most stable matchings in a 13×13 marriage market](results/003-stable-marriage-n13.md) | 7,698 stable matchings (previous best known: 7,123) | Submitted to V3R1T4S ([draft PR #150](https://github.com/elder-plinius/V3R1T4S/pull/150)) | seconds, C compiler |
 | 004 | 2026-10-15 | [Most stable matchings in a 15×15 marriage market, improved](results/004-stable-marriage-n15-30362.md) | 30,362 stable matchings (published best: 27,059; our 001: 27,510) | Submitted to V3R1T4S ([draft PR #151](https://github.com/elder-plinius/V3R1T4S/pull/151)) | seconds, C compiler |
 
+
+## Problems we proposed
+
+Open problems we submitted to the [V3R1T4S bank](https://github.com/elder-plinius/V3R1T4S/tree/main/bank) so that anyone
+can attack them. Each has a page: what it is, where it came from, why it matters, how to think about it and what would
+count as a solution.
+
+| Problem | Area | Bank proposal | Our results |
+|---|---|---|---|
+| [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–004 |
+| [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | [draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) | — |
+
 ## How a result gets here
 
 1. **Hunt.** Several agent lanes (Claude Opus and Fable models) work through open problems that have a public record

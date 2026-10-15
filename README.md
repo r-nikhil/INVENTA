@@ -11,8 +11,10 @@ from, why it matters, what we found, and how you can verify it yourself.
 
 | # | Date | Problem | Result | Status | Verify |
 |---|---|---|---|---|---|
-| 001 | 2026-10-14 | [Most stable matchings in a 15×15 marriage market](results/001-stable-marriage-n15.md) | 27,510 stable matchings (previous best known: 27,059) | Submitted to V3R1T4S ([draft PR #144](https://github.com/elder-plinius/V3R1T4S/pull/144)) | ~15 s, Python only |
+| 001 | 2026-10-14 | [Most stable matchings in a 15×15 marriage market](results/001-stable-marriage-n15.md) | 27,510 stable matchings (previous best known: 27,059) | Submitted ([draft PR #144](https://github.com/elder-plinius/V3R1T4S/pull/144)); superseded by 004 | ~15 s, Python only |
 | 002 | 2026-10-15 | [Most stable matchings in an 18×18 marriage market](results/002-stable-marriage-n18.md) | 530,528 stable matchings (previous best known: 456,300) | Submitted to V3R1T4S ([draft PR #147](https://github.com/elder-plinius/V3R1T4S/pull/147)) | ~5 s, C compiler |
+| 003 | 2026-10-15 | [Most stable matchings in a 13×13 marriage market](results/003-stable-marriage-n13.md) | 7,698 stable matchings (previous best known: 7,123) | Submitted to V3R1T4S ([draft PR #150](https://github.com/elder-plinius/V3R1T4S/pull/150)) | seconds, C compiler |
+| 004 | 2026-10-15 | [Most stable matchings in a 15×15 marriage market, improved](results/004-stable-marriage-n15-30362.md) | 30,362 stable matchings (published best: 27,059; our 001: 27,510) | Submitted to V3R1T4S ([draft PR #151](https://github.com/elder-plinius/V3R1T4S/pull/151)) | seconds, C compiler |
 
 ## How a result gets here
 

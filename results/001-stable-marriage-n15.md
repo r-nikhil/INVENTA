@@ -8,6 +8,9 @@ OEIS [A357269](https://oeis.org/A357269), this shows **f(15) ≥ 27,510**.
 a second model family, and submitted for maintainer review:
 [elder-plinius/V3R1T4S draft PR #144](https://github.com/elder-plinius/V3R1T4S/pull/144).
 
+> **Since improved:** a longer search from the same starting point reached 30,362 —
+> [discovery 004](004-stable-marriage-n15-30362.md).
+
 ---
 
 ## The problem

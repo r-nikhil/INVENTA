@@ -1,5 +1,8 @@
 # Log
 
+- **2026-10-15** — Discovery 011: a second QOBLIB portfolio instance, po_a200_t10_orig, solved to −691,624 against a
+  best posted −551,385 ([draft PR #176](https://github.com/elder-plinius/V3R1T4S/pull/176)). Write-up:
+  [results/011](results/011-qoblib-portfolio-a200-orig.md).
 - **2026-10-15** — Discovery 010: a 28×28 instance with 2,497,797,760 stable matchings (OEIS value 2,000,043,808;
   [draft PR #174](https://github.com/elder-plinius/V3R1T4S/pull/174)). Write-up: [results/010](results/010-stable-marriage-n28.md).
 - **2026-10-15** — Discoveries 008 and 009: fifteen new exact terms of the push-your-luck coin race "Risk or Safety"

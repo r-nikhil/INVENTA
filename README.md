@@ -30,6 +30,15 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 017 | 2026-10-15 | [Most stable matchings in a 23×23 marriage market](results/017-stable-marriage-n23.md) | 19,305,568 stable matchings (OEIS value: 15,481,956) | Submitted to V3R1T4S ([draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)) | `sh verify-it-yourself/run_checks.sh` |
 
 
+## Candidates (not confirmed)
+
+Results that passed part of the gauntlet but not all of it. They are published so that anyone can check them; they are
+not submitted anywhere and must not be cited as confirmed.
+
+| # | Date | Problem | Candidate result | What is missing |
+|---|---|---|---|---|
+| C01 | 2026-10-16 | [Three-player Kuhn poker: are all Nash equilibria in the 2013 family?](candidates/c01-three-player-kuhn-completeness.md) | A computer-checked proof that every Nash equilibrium agrees on its path of play with the Szafron–Gibson–Sturtevant family | Novelty review: one textbook chapter unread; no cross-model review |
+
 ## Problems we proposed
 
 Open problems we submitted to the [V3R1T4S bank](https://github.com/elder-plinius/V3R1T4S/tree/main/bank) so that anyone

@@ -1,5 +1,8 @@
 # Log
 
+- **2026-10-16** — Candidate C01 (not confirmed): a computer-checked proof that every Nash equilibrium of three-player
+  Kuhn poker agrees on its path of play with the 2013 Szafron–Gibson–Sturtevant family. Published for anyone to check;
+  see [candidates/c01](candidates/c01-three-player-kuhn-completeness.md) for what is still missing.
 - **2026-10-15** — Discovery 017: a 23×23 instance with 19,305,568 stable matchings, found by search (OEIS value
   15,481,956; [draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)).
 - **2026-10-15** — The V3R1T4S maintainer merged our search results 003 (#150) and 004 (#151) and closed 002, 005, 006

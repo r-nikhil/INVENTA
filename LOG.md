@@ -1,5 +1,8 @@
 # Log
 
+- **2026-10-16** — Discovery 018: a proof that the conjectured threshold strategies of three-player von Neumann poker
+  (Krityakierne–Thanatipanonda–Zeilberger 2024) form a Nash equilibrium for every bet size
+  ([draft PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196)).
 - **2026-10-16** — Candidate C01 (not confirmed): a computer-checked proof that every Nash equilibrium of three-player
   Kuhn poker agrees on its path of play with the 2013 Szafron–Gibson–Sturtevant family. Published for anyone to check;
   see [candidates/c01](candidates/c01-three-player-kuhn-completeness.md) for what is still missing.

@@ -28,6 +28,7 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 015 | 2026-10-15 | [A better portfolio for a 400-asset quantum-optimisation benchmark instance](results/015-qoblib-portfolio-a400.md) | QOBLIB po_a400_t10_s00 (B = 100, λ = 0.01): objective −1,696,664 (best public: −1,090,282) | Submitted to V3R1T4S ([draft PR #193](https://github.com/elder-plinius/V3R1T4S/pull/193)) | `sh verify-it-yourself/run_checks.sh` |
 | 016 | 2026-10-15 | [Most stable matchings in a 21×21 marriage market](results/016-stable-marriage-n21.md) | 5,400,616 stable matchings (OEIS value: 3,506,880) | Submitted to V3R1T4S ([draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194)) | `sh verify-it-yourself/run_checks.sh` |
 | 017 | 2026-10-15 | [Most stable matchings in a 23×23 marriage market](results/017-stable-marriage-n23.md) | 19,305,568 stable matchings (OEIS value: 15,481,956) | Submitted to V3R1T4S ([draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195)) | `sh verify-it-yourself/run_checks.sh` |
+| 018 | 2026-10-16 | [Three-player von Neumann poker: the conjectured strategy is an equilibrium for every bet size](results/018-three-player-von-neumann-poker.md) | Proof for all b > 0 that the threshold profile of Krityakierne–Thanatipanonda–Zeilberger (2024) is a Nash equilibrium | Submitted to V3R1T4S ([draft PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196)) | `sh verify-it-yourself/run_checks.sh` |
 
 
 ## Candidates (not confirmed)

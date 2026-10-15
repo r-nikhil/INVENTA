@@ -1,5 +1,9 @@
 # Log
 
+- **2026-10-15** — Discoveries 005 and 006: a 14×14 instance with 24,992 stable matchings (previous best 20,176;
+  [draft PR #156](https://github.com/elder-plinius/V3R1T4S/pull/156)) and a 22×22 instance with 12,277,568 (previous best
+  11,221,136; [draft PR #157](https://github.com/elder-plinius/V3R1T4S/pull/157)), both by doubling record blocks. Write-ups:
+  [results/005](results/005-stable-marriage-n14.md), [results/006](results/006-stable-marriage-n22.md).
 - **2026-10-15** — Proposed the first two open problems to the V3R1T4S bank:
   [stable matchings](problems/stable-marriage-max-stable-matchings.md) ([draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153)) and
   [robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) ([draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154)).

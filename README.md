@@ -15,6 +15,8 @@ from, why it matters, what we found, and how you can verify it yourself.
 | 002 | 2026-10-15 | [Most stable matchings in an 18×18 marriage market](results/002-stable-marriage-n18.md) | 530,528 stable matchings (previous best known: 456,300) | Submitted to V3R1T4S ([draft PR #147](https://github.com/elder-plinius/V3R1T4S/pull/147)) | ~5 s, C compiler |
 | 003 | 2026-10-15 | [Most stable matchings in a 13×13 marriage market](results/003-stable-marriage-n13.md) | 7,698 stable matchings (previous best known: 7,123) | Submitted to V3R1T4S ([draft PR #150](https://github.com/elder-plinius/V3R1T4S/pull/150)) | seconds, C compiler |
 | 004 | 2026-10-15 | [Most stable matchings in a 15×15 marriage market, improved](results/004-stable-marriage-n15-30362.md) | 30,362 stable matchings (published best: 27,059; our 001: 27,510) | Submitted to V3R1T4S ([draft PR #151](https://github.com/elder-plinius/V3R1T4S/pull/151)) | seconds, C compiler |
+| 005 | 2026-10-15 | [Most stable matchings in a 14×14 marriage market](results/005-stable-marriage-n14.md) | 24,992 stable matchings (previous best known: 20,176) | Submitted to V3R1T4S ([draft PR #156](https://github.com/elder-plinius/V3R1T4S/pull/156)) | seconds, C compiler |
+| 006 | 2026-10-15 | [Most stable matchings in a 22×22 marriage market](results/006-stable-marriage-n22.md) | 12,277,568 stable matchings (previous best known: 11,221,136) | Submitted to V3R1T4S ([draft PR #157](https://github.com/elder-plinius/V3R1T4S/pull/157)) | seconds, C compiler |
 
 
 ## Problems we proposed
@@ -25,7 +27,7 @@ count as a solution.
 
 | Problem | Area | Bank proposal | Our results |
 |---|---|---|---|
-| [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–004 |
+| [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | [draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) | 001–006 |
 | [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | [draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) | — |
 
 ## How a result gets here

@@ -69,7 +69,8 @@ Anyone can verify a claimed instance in seconds.
 We attack this with V3R1T4S research lanes: an exact counter, iterated local search from the published records, and
 the classic doubling applied to new record blocks. Results so far that passed the full gauntlet and were submitted:
 [001](../results/001-stable-marriage-n15.md) and [004](../results/004-stable-marriage-n15-30362.md) (*n* = 15),
-[002](../results/002-stable-marriage-n18.md) (*n* = 18) and [003](../results/003-stable-marriage-n13.md) (*n* = 13).
+[002](../results/002-stable-marriage-n18.md) (*n* = 18), [003](../results/003-stable-marriage-n13.md) (*n* = 13),
+[005](../results/005-stable-marriage-n14.md) (*n* = 14) and [006](../results/006-stable-marriage-n22.md) (*n* = 22).
 Other sizes are posted only after independent verification.
 
 ## Sources

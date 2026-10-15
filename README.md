@@ -12,6 +12,7 @@ from, why it matters, what we found, and how you can verify it yourself.
 | # | Date | Problem | Result | Status | Verify |
 |---|---|---|---|---|---|
 | 001 | 2026-10-14 | [Most stable matchings in a 15×15 marriage market](results/001-stable-marriage-n15.md) | 27,510 stable matchings (previous best known: 27,059) | Submitted to V3R1T4S ([draft PR #144](https://github.com/elder-plinius/V3R1T4S/pull/144)) | ~15 s, Python only |
+| 002 | 2026-10-15 | [Most stable matchings in an 18×18 marriage market](results/002-stable-marriage-n18.md) | 530,528 stable matchings (previous best known: 456,300) | Submitted to V3R1T4S ([draft PR #147](https://github.com/elder-plinius/V3R1T4S/pull/147)) | ~5 s, C compiler |
 
 ## How a result gets here
 

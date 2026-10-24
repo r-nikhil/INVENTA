@@ -9,8 +9,10 @@ not.
 
 **Status.** Confirmed by the V3R1T4S gauntlet as a partial win (three independent skeptic agents + honesty gate),
 cross-checked blind by a second model family (OpenAI Codex).
-The maintainer reproduced it to 60 digits. A game theorist is being asked to confirm:
-[elder-plinius/V3R1T4S PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196).
+Closed upstream on 2026-10-24 without merging: V3R1T4S records only machine-checkable results, and this proof also rests
+on analytic steps (the measurable-deviation and endpoint arguments, and the reading of the Section 4 game with II and
+III acting simultaneously) that need peer review. The maintainer re-derived the payoffs and reproduced the closed forms
+and the b = 2 value to 60 digits: [elder-plinius/V3R1T4S PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196).
 
 ---
 

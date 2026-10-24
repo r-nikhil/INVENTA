@@ -2,7 +2,7 @@
 
 **Open problem.** A proposed poker strategy bluffs with weak hands, bets strong hands and checks the middle. Is the threshold profile in the cited three-player von Neumann game actually a Nash equilibrium at bet size b=2, against every measurable unilateral deviation?
 
-**Status.** Krityakierne, Thanatipanonda and Zeilberger report conjectured thresholds A≈0.137058194328370, B≈0.829422249795391 and C≈0.641304115985175, with player-I value approximately 0.122557074714865. The proposal asks for verification of the global best-response inequalities, beyond the paper’s threshold equations. [Status source](<https://arxiv.org/abs/2407.16155>). Historical proposal status date: 2026-10-14. Any first-solve or best-known claim requires a further current comparison. The earlier page review was dated 2026-10-15. A proof for every b > 0 under the simultaneous-callers rules is under review in V3R1T4S PR #196. It is not an established proof or a record bar. This preparation made no new source request.
+**Status.** Krityakierne, Thanatipanonda and Zeilberger report conjectured thresholds A≈0.137058194328370, B≈0.829422249795391 and C≈0.641304115985175, with player-I value approximately 0.122557074714865. The proposal asks for verification of the global best-response inequalities, beyond the paper’s threshold equations. [Status source](<https://arxiv.org/abs/2407.16155>). Historical proposal status date: 2026-10-14. Any first-solve or best-known claim requires a further current comparison. The earlier page review was dated 2026-10-15. A proof for every b > 0 under the simultaneous-callers rules was submitted in V3R1T4S PR #196 and closed on 2026-10-24 (proof claims need peer review). It is not an established proof or a record bar. This preparation made no new source request.
 
 ## The problem
 
@@ -12,7 +12,7 @@ Each player antes one and receives an independent uniform hand in (0,1). Player 
 
 - 2024-07-23: The cited paper proposed the continuous threshold profile using finite-deck computations and three indifference equations.
 - 2026-10-15: The earlier page review recorded no later full verification.
-- Supplied repository update: an all-b>0 proof is under review in PR #196; this is not an established verification.
+- 2026-10-24: an all-b>0 proof submitted in V3R1T4S PR #196 was closed without merging (the repository records only machine-checkable results, and a proof needs peer review) after the maintainer reproduced its closed forms and b = 2 value to 60 digits; this is not an established verification.
 
 ## Why it matters
 

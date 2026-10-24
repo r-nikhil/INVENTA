@@ -9,8 +9,10 @@ and Mark Holmes: in the three-player "all in" betting game, for all stacks x, y,
 where f is the probability that player 1 busts first. A player with a shorter stack than an opponent is always strictly
 more likely to bust first than if the two were tied, and the proof even gives an explicit margin that holds everywhere.
 
-**Status.** Lowered to PROMISING pending a human expert's sign-off on two analytic lemmas. The maintainer reproduced
-every certificate bound: [elder-plinius/V3R1T4S PR #192](https://github.com/elder-plinius/V3R1T4S/pull/192).
+**Status.** Closed upstream on 2026-10-24 without merging: V3R1T4S records only machine-checkable results, and a proof
+of a conjecture also rests on analytic steps (here the 4/5 tail bound and the conservative enclosure rule) that need
+peer review. The maintainer's own checker reproduced every certificate bound (all 9,839 nodes, all 6,561 leaves and the
+379/1,813,985,280 minimum): [elder-plinius/V3R1T4S PR #192](https://github.com/elder-plinius/V3R1T4S/pull/192).
 It passed the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
 Not peer reviewed and not formalised in a proof assistant.
 

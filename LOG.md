@@ -1,5 +1,9 @@
 # Log
 
+- **2026-10-24** — V3R1T4S closed PRs #192 (014) and #196 (018) without merging: the repository now records only
+  machine-checkable results, and a proof claim also needs peer review, which it cannot provide. The maintainer reproduced
+  both independently (every certificate bound of 014; 018's closed forms and b = 2 value to 60 digits) and will link a
+  refereed version if one appears.
 - **2026-10-24** — Proposed the final batch of 59 open problems to the V3R1T4S bank (draft PRs #648–#707), each with an
   explainer page under [problems/](problems/): poker and gambling, markets and fair division, cryptographic circuits and
   codes, network topologies and combinatorial games. This wraps up our proposals.

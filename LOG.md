@@ -1,5 +1,8 @@
 # Log
 
+- **2026-10-24** — Proposed the final batch of 59 open problems to the V3R1T4S bank (draft PRs #648–#707), each with an
+  explainer page under [problems/](problems/): poker and gambling, markets and fair division, cryptographic circuits and
+  codes, network topologies and combinatorial games. This wraps up our proposals.
 - **2026-10-24** — Bank #154 merged and #153's last fix is done; 012, 013, 015, 016 and 019 await merge after maintainer confirmation and README fixes, with 015 also in QOBLIB PR #92. Checks remain on 017's Thurber comparison, 014's analytic lemmas (now PROMISING) and 018's expert confirmation; C01 is closed "for now" pending the Prisner chapter and a second-model-family or human proof review, and the chapter reference is corrected.
 - **2026-10-16** — Discovery 019: exact card-guessing values for n = 11–13 ([draft PR #200](https://github.com/elder-plinius/V3R1T4S/pull/200)).
   Candidate C01 (three-player Kuhn) submitted as PROMISING ([draft PR #201](https://github.com/elder-plinius/V3R1T4S/pull/201)).

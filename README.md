@@ -51,6 +51,65 @@ count as a solution.
 |---|---|---|---|
 | [How many stable matchings can a marriage market have?](problems/stable-marriage-max-stable-matchings.md) | Market design, combinatorics | Open; last requested fix done ([PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153)) | 001–006, 010, 012, 013, 016, 017 |
 | [Robust forecast aggregation](problems/robust-forecast-aggregation-bounds.md) | Forecasting, prediction markets | Merged into the bank's proposed list on 2026-10-16 ([PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154)) | 007 (tiny lower-bound gain) |
+| [Does matching a rival’s stack reduce first-bust risk?](problems/all-in-three-player-ruin-angel-holmes-conjecture.md) | Games, poker, combinatorics | [draft PR #648](https://github.com/elder-plinius/V3R1T4S/pull/648) | [014](results/014-angel-holmes-all-in-conjecture.md) (under review) |
+| [Does alternating predictive regret matching converge?](problems/alternating-prm-plus-ergodic-convergence.md) | Algorithms, circuits | [draft PR #649](https://github.com/elder-plinius/V3R1T4S/pull/649) | — |
+| [Settle an unresolved antichess opening](problems/antichess-open-first-moves.md) | Games, poker, combinatorics | [draft PR #650](https://github.com/elder-plinius/V3R1T4S/pull/650) | — |
+| [When does a two-item auction become deterministic?](problems/auction-deterministic-threshold-monotonicity.md) | Algorithms, circuits | [draft PR #652](https://github.com/elder-plinius/V3R1T4S/pull/652) | — |
+| [Can two Beggar-My-Neighbour histories merge before ending?](problems/beggar-terminating-trajectory-collision.md) | Games, poker, combinatorics | [draft PR #653](https://github.com/elder-plinius/V3R1T4S/pull/653) | — |
+| [When both sides’ best offers trade too little](problems/bilateral-trade-best-offer-vs-second-best.md) | Games, poker, combinatorics | [draft PR #654](https://github.com/elder-plinius/V3R1T4S/pull/654) | — |
+| [How many equilibria can binary choices create?](problems/binary-action-games-max-nash-equilibria.md) | Games, poker, combinatorics | [draft PR #655](https://github.com/elder-plinius/V3R1T4S/pull/655) | — |
+| [A seventh binary-coefficient APN class in dimension eleven](problems/binary-coefficient-apn-dimension-11.md) | Records and constructions | [draft PR #656](https://github.com/elder-plinius/V3R1T4S/pull/656) | — |
+| [Shorter binary minimal codes for dimensions ten to thirteen](problems/binary-minimal-code-length-records.md) | Records and constructions | [draft PR #657](https://github.com/elder-plinius/V3R1T4S/pull/657) | — |
+| [Smaller circuits for binary polynomial multiplication](problems/binary-polynomial-multiplication-gates.md) | Algorithms, circuits | [draft PR #658](https://github.com/elder-plinius/V3R1T4S/pull/658) | — |
+| [A certified ceiling on selfish-mining revenue](problems/bitcoin-selfish-mining-revenue-bounds.md) | Games, poker, combinatorics | [draft PR #659](https://github.com/elder-plinius/V3R1T4S/pull/659) | — |
+| [Optimal card guesses with only yes-or-no feedback](problems/card-guessing-yes-no-feedback-exact.md) | Games, poker, combinatorics | [draft PR #660](https://github.com/elder-plinius/V3R1T4S/pull/660) | [019](results/019-card-guessing-n11-13.md) (under review) |
+| [The fair margin in “Fill your basket”](problems/coin-basket-adversarial-games.md) | Games, poker, combinatorics | [draft PR #661](https://github.com/elder-plinius/V3R1T4S/pull/661) | — |
+| [Optimal coin placement into randomly chosen baskets](problems/coin-basket-random-expected-values.md) | Games, poker, combinatorics | [draft PR #662](https://github.com/elder-plinius/V3R1T4S/pull/662) | — |
+| [Cover every outcome with fewer codewords](problems/covering-codes-q2-q4-upper-bounds.md) | Records and constructions | [draft PR #663](https://github.com/elder-plinius/V3R1T4S/pull/663) | — |
+| [Shorter chains for elliptic-curve inversion](problems/ecc-inversion-addition-chains.md) | Algorithms, circuits | [draft PR #664](https://github.com/elder-plinius/V3R1T4S/pull/664) | — |
+| [Can four people always divide goods with EFX fairness?](problems/four-agent-additive-goods-efx-obstruction.md) | Games, poker, combinatorics | [draft PR #665](https://github.com/elder-plinius/V3R1T4S/pull/665) | — |
+| [Does scaling every stack preserve elimination odds?](problems/gamblers-ruin-scaling-conjecture.md) | Games, poker, combinatorics | [draft PR #666](https://github.com/elder-plinius/V3R1T4S/pull/666) | — |
+| [Multiply eight-term binary polynomials with 25 products](problems/gf2-polymult-8term-25-products.md) | Algorithms, circuits | [draft PR #667](https://github.com/elder-plinius/V3R1T4S/pull/667) | — |
+| [Better graphs for short network paths](problems/graph-golf-order-degree-aspl.md) | Games, poker, combinatorics | [draft PR #668](https://github.com/elder-plinius/V3R1T4S/pull/668) | — |
+| [Can stable ad-slot bids waste more welfare?](problems/gsp-pure-nash-poa-conjecture.md) | Games, poker, combinatorics | [draft PR #669](https://github.com/elder-plinius/V3R1T4S/pull/669) | — |
+| [What is the value of four-player continuous Guts?](problems/guts-four-player-synchronous-value.md) | Games, poker, combinatorics | [draft PR #670](https://github.com/elder-plinius/V3R1T4S/pull/670) | — |
+| [Can an independent Guts coalition force a loss?](problems/guts-n-player-asynchronous-coalition.md) | Games, poker, combinatorics | [draft PR #671](https://github.com/elder-plinius/V3R1T4S/pull/671) | — |
+| [Does the Weenie rule protect the symmetric Guts threshold?](problems/guts-weenie-rule-strong-equilibrium.md) | Games, poker, combinatorics | [draft PR #672](https://github.com/elder-plinius/V3R1T4S/pull/672) | — |
+| [Exact values for hidden-information game benchmarks](problems/iig-benchmark-exact-nash-values.md) | Games, poker, combinatorics | [draft PR #673](https://github.com/elder-plinius/V3R1T4S/pull/673) | — |
+| [Can two small constrained allocations unlock four-agent fairness?](problems/laminar-ef1-four-agent-key-matroids.md) | Games, poker, combinatorics | [draft PR #674](https://github.com/elder-plinius/V3R1T4S/pull/674) | — |
+| [Coordinate more players in Levine’s hat puzzle](problems/levine-hat-n-player-records.md) | Games, poker, combinatorics | [draft PR #675](https://github.com/elder-plinius/V3R1T4S/pull/675) | — |
+| [Close the gap in the two-player hat puzzle](problems/levine-hat-two-player-value.md) | Games, poker, combinatorics | [draft PR #676](https://github.com/elder-plinius/V3R1T4S/pull/676) | — |
+| [The fewest tickets guaranteeing a two-number match](problems/lottery-numbers-l-n-6-6-2-beyond-70.md) | Records and constructions | [draft PR #677](https://github.com/elder-plinius/V3R1T4S/pull/677) | — |
+| [Smaller exact median selection networks](problems/median-selection-network-size-records.md) | Records and constructions | [draft PR #678](https://github.com/elder-plinius/V3R1T4S/pull/678) | — |
+| [Sparse five-round broadcast graphs on 23–25 vertices](problems/minimum-broadcast-graphs-23-25.md) | Games, poker, combinatorics | [draft PR #679](https://github.com/elder-plinius/V3R1T4S/pull/679) | — |
+| [Close a gap in financial optimization benchmarks](problems/minlplib-finance-open-instances.md) | Optimisation benchmarks | [draft PR #680](https://github.com/elder-plinius/V3R1T4S/pull/680) | — |
+| [Who wins misère Sprouts from 21 spots?](problems/misere-sprouts-21-spots.md) | Games, poker, combinatorics | [draft PR #681](https://github.com/elder-plinius/V3R1T4S/pull/681) | — |
+| [The revenue cost of one reserve for everyone](problems/myerson-vs-anonymous-reserve-gap.md) | Games, poker, combinatorics | [draft PR #682](https://github.com/elder-plinius/V3R1T4S/pull/682) | — |
+| [Smaller verified circuits for AES components](problems/nist-aes-circuit-records.md) | Algorithms, circuits | [draft PR #683](https://github.com/elder-plinius/V3R1T4S/pull/683) | — |
+| [Solve the next NoGo boards](problems/nogo-28-point-boards.md) | Games, poker, combinatorics | [draft PR #684](https://github.com/elder-plinius/V3R1T4S/pull/684) | — |
+| [Fewer AND gates for five small power S-boxes](problems/non-aes-power-sbox-and-records.md) | Records and constructions | [draft PR #685](https://github.com/elder-plinius/V3R1T4S/pull/685) | — |
+| [Find a provable repeating pattern in an octal game](problems/octal-games-unsettled-periodicity.md) | Games, poker, combinatorics | [draft PR #686](https://github.com/elder-plinius/V3R1T4S/pull/686) | — |
+| [Higher unrestricted Boolean nonlinearity in odd dimensions](problems/odd-boolean-nonlinearity-9-11-13.md) | Records and constructions | [draft PR #687](https://github.com/elder-plinius/V3R1T4S/pull/687) | — |
+| [Can rotating a permutation always win Penney’s game?](problems/penney-permutations-rotation-conjecture.md) | Games, poker, combinatorics | [draft PR #688](https://github.com/elder-plinius/V3R1T4S/pull/688) | — |
+| [Smaller exact Birkhoff decompositions for two QOBLIB matrices](problems/qoblib-birkhoff-small-exact-records.md) | Optimisation benchmarks | [draft PR #689](https://github.com/elder-plinius/V3R1T4S/pull/689) | — |
+| [Certify the exact optimum of a small QOBLIB portfolio instance](problems/qoblib-portfolio-ten-assets-exact.md) | Optimisation benchmarks | [draft PR #690](https://github.com/elder-plinius/V3R1T4S/pull/690) | — |
+| [Can fair assignment lotteries always be coupled fairly?](problems/random-assignment-dec-ef-conjecture.md) | Games, poker, combinatorics | [draft PR #691](https://github.com/elder-plinius/V3R1T4S/pull/691) | — |
+| [Exact odds for a push-your-luck coin race](problems/risk-or-safety-exact-optimal-play.md) | Games, poker, combinatorics | [draft PR #692](https://github.com/elder-plinius/V3R1T4S/pull/692) | [008](results/008-risk-or-safety-n16-30.md) (merged) |
+| [A first certified answer for an unknown SAT instance](problems/sat-competition-2026-unknown-first-solve.md) | Optimisation benchmarks | [draft PR #693](https://github.com/elder-plinius/V3R1T4S/pull/693) | — |
+| [Can smaller tournament sets support unfair dice games?](problems/schutte-multiple-tournament-dice-bounds.md) | Games, poker, combinatorics | [draft PR #694](https://github.com/elder-plinius/V3R1T4S/pull/694) | — |
+| [Selecting a median with fewer comparisons](problems/selection-min-comparisons-n16-n17.md) | Algorithms, circuits | [draft PR #695](https://github.com/elder-plinius/V3R1T4S/pull/695) | — |
+| [How costly can the best stable shared network be?](problems/shapley-network-design-pos-three-players.md) | Games, poker, combinatorics | [draft PR #696](https://github.com/elder-plinius/V3R1T4S/pull/696) | — |
+| [Larger short binary codes correcting two or three deletions](problems/short-binary-multiple-deletion-code-records.md) | Records and constructions | [draft PR #697](https://github.com/elder-plinius/V3R1T4S/pull/697) | — |
+| [Exact certificates for eight SMT-COMP P4/DFA holdouts](problems/smt2026-p4-dfa-unknown-certificates.md) | Optimisation benchmarks | [draft PR #698](https://github.com/elder-plinius/V3R1T4S/pull/698) | — |
+| [The longest repeating subtraction game](problems/subtraction-game-max-period-terms.md) | Games, poker, combinatorics | [draft PR #699](https://github.com/elder-plinius/V3R1T4S/pull/699) | — |
+| [Meet sooner without a shared direction](problems/symmetric-rendezvous-records.md) | Games, poker, combinatorics | [draft PR #700](https://github.com/elder-plinius/V3R1T4S/pull/700) | — |
+| [Can three people always divide chores with EFX fairness?](problems/three-agent-additive-chores-efx.md) | Games, poker, combinatorics | [draft PR #701](https://github.com/elder-plinius/V3R1T4S/pull/701) | — |
+| [A tighter equilibrium for three-player jam-or-fold poker](problems/three-player-jamfold-sng-epsilon.md) | Games, poker, combinatorics | [draft PR #702](https://github.com/elder-plinius/V3R1T4S/pull/702) | — |
+| [Are all on-path Kuhn poker equilibria already known?](problems/three-player-kuhn-equilibrium-completeness.md) | Games, poker, combinatorics | [draft PR #703](https://github.com/elder-plinius/V3R1T4S/pull/703) | [C01](candidates/c01-three-player-kuhn-completeness.md) (candidate) |
+| [Verify a three-player bluffing equilibrium](problems/three-player-von-neumann-poker-equilibrium.md) | Games, poker, combinatorics | [draft PR #704](https://github.com/elder-plinius/V3R1T4S/pull/704) | [018](results/018-three-player-von-neumann-poker.md) (under review) |
+| [Can lottery menus outperform item prices by more?](problems/unit-demand-lottery-vs-item-pricing-gap.md) | Games, poker, combinatorics | [draft PR #705](https://github.com/elder-plinius/V3R1T4S/pull/705) | — |
+| [Smaller XOR circuits for the Whirlwind M0 and M1 maps](problems/whirlwind-linear-layer-xor-records.md) | Records and constructions | [draft PR #706](https://github.com/elder-plinius/V3R1T4S/pull/706) | — |
+| [More codewords for one-way bit errors](problems/z-channel-single-error-codes.md) | Records and constructions | [draft PR #707](https://github.com/elder-plinius/V3R1T4S/pull/707) | — |
 
 ## How a result gets here
 

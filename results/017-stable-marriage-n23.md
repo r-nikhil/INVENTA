@@ -6,9 +6,10 @@ compositions): **f(23) ≥ 19,305,568** (+24.7 %). It was found by search, not b
 so no product of smaller instances reaches it).
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a
-fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model),
-and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195).
+fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+The maintainer confirmed the count: [elder-plinius/V3R1T4S PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195).
+It is still open whether Thurber's (2002) odd-size composition with today's blocks could reach about 18.5 million
+(this instance has 19,305,568); this is being checked.
 
 ---
 

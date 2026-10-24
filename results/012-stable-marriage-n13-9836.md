@@ -5,8 +5,9 @@ matchings, far above the best published value for this size, **7,123** (the Ong 
 [A357271](https://oeis.org/A357271)'s file), and above our own earlier 7,698 ([003](003-stable-marriage-n13.md)). So
 **f(13) ≥ 9,836** (+38 % over the published record).
 
-**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model), and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #190](https://github.com/elder-plinius/V3R1T4S/pull/190) (it supersedes our #150).
+**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24.
+Merge expected: [elder-plinius/V3R1T4S PR #190](https://github.com/elder-plinius/V3R1T4S/pull/190) (it supersedes our #150).
 
 ---
 

@@ -1,14 +1,15 @@
 # C01 · Candidate: every Nash equilibrium of 3-player Kuhn poker is in the Szafron–Gibson–Sturtevant family
 
-> **Status: candidate, not confirmed.** This has NOT been through the full V3R1T4S gauntlet and is not submitted
-> anywhere. Two independent skeptics passed it (one reproduced and re-checked the proof, one judged it against the
+> **Status: candidate, not confirmed.** This has NOT been through the full V3R1T4S gauntlet.
+> Two independent skeptics passed it (one reproduced and re-checked the proof, one judged it against the
 > problem's success rule), but the novelty review is incomplete: one source, a textbook chapter, could not be read
 > (details below). Every step of this pipeline ran on OpenAI Codex models, so no second model family has reviewed it.
 > We publish it so that anyone can check it.
 >
-> **Update (2026-10-16):** submitted to V3R1T4S on the submitter's judgment that the unread chapter covers two-player
-> (heads-up) Kuhn poker only, clearly labelled PROMISING:
-> [elder-plinius/V3R1T4S draft PR #201](https://github.com/elder-plinius/V3R1T4S/pull/201).
+> **Update (2026-10-17):** the maintainer closed
+> [elder-plinius/V3R1T4S PR #201](https://github.com/elder-plinius/V3R1T4S/pull/201) "for now".
+> Refile once Prisner's (2014) chapter "Example: VNM POKER and KUHN POKER" has been read and the proof has had
+> a second-model-family or human review.
 
 **Claim.** Every behavioural Nash equilibrium of the three-player Kuhn poker game defined in Section 2 of Szafron,
 Gibson and Sturtevant (AAMAS 2013) agrees, at every information set it reaches with positive probability, with some

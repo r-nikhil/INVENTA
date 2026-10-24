@@ -7,7 +7,7 @@ are explicit instances (lower bounds) and an upper bound of about 3.55ⁿ.
 
 **Status.** Best known lower bounds: OEIS [A357271](https://oeis.org/A357271) and its instance file (Ong et al.); exact
 values: OEIS [A357269](https://oeis.org/A357269). Proposed to the V3R1T4S bank:
-[draft PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) (2026-10-15).
+[PR #153](https://github.com/elder-plinius/V3R1T4S/pull/153) (2026-10-15). The proposal is open; the last requested fix is done.
 
 ## The problem
 

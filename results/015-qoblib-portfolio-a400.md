@@ -5,9 +5,10 @@
 **−1,696,664** under the library's reference model, against a best public value of **−1,090,282** (open QOBLIB pull
 request #87). The official best-known table has no row for this cell yet.
 
-**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model), and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #193](https://github.com/elder-plinius/V3R1T4S/pull/193). Not yet submitted to QOBLIB
-itself.
+**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24.
+Merge expected: [elder-plinius/V3R1T4S PR #193](https://github.com/elder-plinius/V3R1T4S/pull/193).
+The cell was also added to [QOBLIB pull request #92](https://github.com/ZIB-AOPT/QOBLIB/pull/92).
 
 ---
 

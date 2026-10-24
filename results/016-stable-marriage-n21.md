@@ -5,9 +5,9 @@ matchings, against **3,506,880** listed for this size in OEIS [A357271](https://
 compositions): **f(21) ≥ 5,400,616** (+54 %).
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a
-fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model),
-and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194).
+fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24.
+Merge expected: [elder-plinius/V3R1T4S PR #194](https://github.com/elder-plinius/V3R1T4S/pull/194).
 
 ---
 

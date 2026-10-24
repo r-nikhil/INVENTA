@@ -7,8 +7,8 @@ of an omniscient aggregator who saw both signals)? The best known answers leave 
 between **31/1326 ≈ 0.023379** and **0.025512**; for a binary state, between **(5√5 − 11)/8 ≈ 0.022542** and **0.022599**.
 
 **Status.** Chen, Peng and Tang, *Prior-agnostic robust forecast aggregation*,
-[arXiv:2604.24517](https://arxiv.org/abs/2604.24517) (v2, May 2026), Table 1. Proposed to the V3R1T4S bank:
-[draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) (2026-10-15).
+[arXiv:2604.24517](https://arxiv.org/abs/2604.24517) (v2, May 2026), Table 1. Merged into the V3R1T4S bank's proposed list:
+[PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154) (2026-10-16).
 
 ## The problem
 

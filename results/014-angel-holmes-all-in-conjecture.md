@@ -1,4 +1,4 @@
-# 014 · Proof of the Angel–Holmes "all in" conjecture: a short stack is always worse off than a tied one
+# 014 · He–Holmes Conjecture 9 (attributed to Angel–Holmes): a short stack is always worse off than a tied one
 
 **Result.** A computer-assisted proof of **Conjecture 9** of Angel Y. He and Mark Holmes,
 *All In: Give me your money!* ([arXiv:2410.15329](https://arxiv.org/abs/2410.15329), Section 5.3), posed by Omer Angel
@@ -9,9 +9,10 @@ and Mark Holmes: in the three-player "all in" betting game, for all stacks x, y,
 where f is the probability that player 1 busts first. A player with a shorter stack than an opponent is always strictly
 more likely to bust first than if the two were tied, and the proof even gives an explicit margin that holds everywhere.
 
-**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model), and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #192](https://github.com/elder-plinius/V3R1T4S/pull/192). Not peer reviewed and not
-formalised in a proof assistant.
+**Status.** Lowered to PROMISING pending a human expert's sign-off on two analytic lemmas. The maintainer reproduced
+every certificate bound: [elder-plinius/V3R1T4S PR #192](https://github.com/elder-plinius/V3R1T4S/pull/192).
+It passed the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+Not peer reviewed and not formalised in a proof assistant.
 
 ---
 

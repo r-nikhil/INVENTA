@@ -12,7 +12,7 @@ just above the best published lower bound **31/1326 ≈ 0.0233785822** for this 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate), cross-checked blind by
 a second model family, and submitted for maintainer review:
 [elder-plinius/V3R1T4S draft PR #160](https://github.com/elder-plinius/V3R1T4S/pull/160). It does **not** reach the
-+10⁻⁵ margin that our own bank entry for this problem asks for ([draft PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154)),
++10⁻⁵ margin that our own bank entry for this problem asks for ([merged PR #154](https://github.com/elder-plinius/V3R1T4S/pull/154)),
 so in the bank's sense the problem is still open.
 
 ---

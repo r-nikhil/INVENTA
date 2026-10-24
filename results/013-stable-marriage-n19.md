@@ -4,8 +4,9 @@
 matchings, against **637,336** listed for this size in OEIS [A357271](https://oeis.org/A357271) (Thurber's 2002
 compositions): **f(19) ≥ 935,662** (+46.8 %). Odd sizes like 19 cannot be reached by simply doubling a smaller record.
 
-**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model), and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #191](https://github.com/elder-plinius/V3R1T4S/pull/191).
+**Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
+The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24.
+Merge expected: [elder-plinius/V3R1T4S PR #191](https://github.com/elder-plinius/V3R1T4S/pull/191).
 
 ---
 

@@ -8,8 +8,9 @@ for A, B, C have exactly one ordered solution 0 < A < C < B < 1, and no player c
 not.
 
 **Status.** Confirmed by the V3R1T4S gauntlet as a partial win (three independent skeptic agents + honesty gate),
-cross-checked blind by a second model family (OpenAI Codex), and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196).
+cross-checked blind by a second model family (OpenAI Codex).
+The maintainer reproduced it to 60 digits. A game theorist is being asked to confirm:
+[elder-plinius/V3R1T4S PR #196](https://github.com/elder-plinius/V3R1T4S/pull/196).
 
 ---
 

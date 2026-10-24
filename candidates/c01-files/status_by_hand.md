@@ -13,4 +13,5 @@
 
 Result of the by-hand check: the status source still lists the question as open. This resolves only the blocked status
 fetch; the rest of NOVELTY (literature of the last 24 months, open PRs, the trophy case) is in panel/novelty.md, which
-found no prior identical theorem. One item there was not read: Prisner (2014), chapter "Example: KUHN POKER(3,4,2,3)".
+found no prior identical theorem. One item there was not read: Prisner (2014), chapter "Example: VNM POKER and KUHN POKER",
+pp. 185–192, [doi:10.5948/9781614441151.026](https://doi.org/10.5948/9781614441151.026).

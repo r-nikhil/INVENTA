@@ -6,7 +6,8 @@ matchings, far above the best published value for this size, **7,123** (the Ong 
 **f(13) ≥ 9,836** (+38 % over the published record).
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
-The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24.
+The maintainer independently confirmed the result. Small README fixes were requested and done on 2026-10-24, and on
+2026-10-25 the maintainer re-confirmed the updated PR (the instance file is unchanged) and will merge after checking the OEIS entry.
 Merge expected: [elder-plinius/V3R1T4S PR #190](https://github.com/elder-plinius/V3R1T4S/pull/190) (it supersedes our #150).
 
 ---

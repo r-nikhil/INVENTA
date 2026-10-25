@@ -1,5 +1,9 @@
 # Log
 
+- **2026-10-25** — Wrapped up: this repository is no longer updated, so follow each pull-request link for its current
+  state. Still open upstream: 012, 013, 015, 016, 017 and 019 (V3R1T4S PRs #190, #191, #193, #194, #195 and #200; 015
+  is also in QOBLIB PR #92) and the bank proposals #153 and #648–#707. The maintainer re-confirmed 012 on its updated
+  PR and will merge it after checking the OEIS entry.
 - **2026-10-24** — V3R1T4S closed PRs #192 (014) and #196 (018) without merging: the repository now records only
   machine-checkable results, and a proof claim also needs peer review, which it cannot provide. The maintainer reproduced
   both independently (every certificate bound of 014; 018's closed forms and b = 2 value to 60 digits) and will link a

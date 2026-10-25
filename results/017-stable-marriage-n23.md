@@ -8,8 +8,9 @@ so no product of smaller instances reaches it).
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate) and a blind review by a
 fresh Codex context (this result came from a Codex research lane, so that review is independent but not cross-model).
 The maintainer confirmed the count: [elder-plinius/V3R1T4S PR #195](https://github.com/elder-plinius/V3R1T4S/pull/195).
-It is still open whether Thurber's (2002) odd-size composition with today's blocks could reach about 18.5 million
-(this instance has 19,305,568); this is being checked.
+It is still open whether Thurber's (2002) odd-size composition with today's blocks could beat it: the best compositions
+we could build reach 17,536,504, and Thurber's own operation (his Appendix C) could not be checked. The maintainer
+decides.
 
 ---
 
@@ -21,8 +22,9 @@ The maximum number of stable matchings *f(n)*: see the [problem page](../problem
 
 The pipeline of [012](012-stable-marriage-n13-9836.md): a non-repeating-word construction with an exact evaluator
 (19,290,640), refined by multi-move and non-local search to 19,305,568. Counted by independent exact counters, with a
-blocking-pair check at every stable matching. The best composition of known instances we could build for n = 23 (the
-best n = 22 composition padded with one mutually-first-choice pair) has 12,277,568.
+blocking-pair check at every stable matching. The best compositions of known blocks we could build for n = 23 reach
+17,516,808 (with the order-7 block of 81) and 17,536,504 (with Myunglae Jo's block of 85); the plain direct sum of the
+order-16 and order-7 instances gives 16,615,120.
 
 ## What it is not
 

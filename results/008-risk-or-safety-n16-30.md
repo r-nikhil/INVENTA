@@ -8,8 +8,8 @@ position of the game, which anyone can check in exact arithmetic in about 30 sec
 152-digit numerator and denominator.
 
 **Status.** Confirmed by the V3R1T4S gauntlet (three independent skeptic agents + honesty gate), cross-checked blind by
-a second model family, and submitted for maintainer review:
-[elder-plinius/V3R1T4S draft PR #169](https://github.com/elder-plinius/V3R1T4S/pull/169).
+a second model family, and merged into V3R1T4S on 2026-10-15 after the maintainer's own exact rational solver
+reproduced every value for n = 1..30: [elder-plinius/V3R1T4S PR #169](https://github.com/elder-plinius/V3R1T4S/pull/169).
 
 ---
 
@@ -36,7 +36,7 @@ verified all 112,840 positions of the 30 certificates with two exact methods tha
 
 ## What it is not
 
-- Nothing beyond n = 30 is claimed here (the lane computed further; those values are not yet reviewed).
+- Nothing beyond n = 30 is claimed here (the lane computed further, but those values were never independently reviewed).
 - No published value is corrected: all earlier terms are reproduced exactly.
 
 ## Verify it yourself
